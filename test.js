@@ -17,4 +17,4 @@ const myFunc = (str) => {
   return results;
 };
 
-
+myFunc(myStr);
